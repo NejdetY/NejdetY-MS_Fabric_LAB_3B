@@ -14,8 +14,6 @@ This repository contains the lab files and instructions for implementing a Medal
 - `orders.zip` - Sample sales data (2019-2021) for the bronze layer.
 - Notebook scripts for transforming data from bronze → silver → gold.
 
-## **Step-by-Step Instructions**
-Follow the detailed guide in the [Lab Instructions](#) or check out the [LinkedIn Post](https://www.linkedin.com/posts/...) for a summary.
 
 ## **Prerequisites**
 - Microsoft Fabric trial license.
